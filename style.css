@@ -1,0 +1,25 @@
+div{
+    width: 800px;
+    height: 800px;
+    color: aquamarine;
+}
+p{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 350px;
+    height: 350px;
+    margin: 25px;
+    padding: 8px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    vertical-align: top;
+}
+img{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 350px;
+    height: 350px;
+    margin: 25px;
+}
+
